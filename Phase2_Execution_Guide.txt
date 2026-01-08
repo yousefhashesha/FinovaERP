@@ -1,0 +1,15 @@
+﻿# FinovaERP Phase 2 - Execution Summary
+# Run these commands to complete setup:
+
+1. Database Setup:
+   sqlcmd -S localhost\SQLEXPRESS -i ""D:\Projects\FinovaERP\Database\Setup_Database.sql""
+
+2. Build Project:
+   dotnet build FinovaERP.sln
+
+3. Run Application:
+   dotnet run --project FinovaERP.Presentation\FinovaERP.Presentation.csproj
+
+4. Test Login:
+   - URL: Application will start automatically
+   - Credentials: admin / Admin123!
