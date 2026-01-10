@@ -1,0 +1,11 @@
+﻿<Project>
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <LangVersion>latest</LangVersion>
+    <Company>FinovaERP</Company>
+    <Authors>FinovaERP Team</Authors>
+    <Copyright>Copyright © 2026 FinovaERP</Copyright>
+  </PropertyGroup>
+</Project>
