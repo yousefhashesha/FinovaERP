@@ -1,0 +1,5 @@
+Next step:
+- Open 01-accounting-candidates.txt and pick the top 5-10 tables.
+- For each chosen table, run:
+  SELECT TOP(50) * FROM [schema].[table];
+We will generate the exact Accounting data access + screens based on the real tables.

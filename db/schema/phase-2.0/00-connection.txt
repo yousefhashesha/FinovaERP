@@ -1,0 +1,3 @@
+DbName|ServerName
+------|----------
+Finova_ERP|DESKTOP-ITSH4HG\SQLEXPRESS

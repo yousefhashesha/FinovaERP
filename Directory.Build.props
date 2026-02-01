@@ -1,0 +1,17 @@
+<Project>
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+
+    <!-- Consistent build output -->
+    <Deterministic>true</Deterministic>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+
+    <!-- Versioning stub (can be wired to CI later) -->
+    <Version>0.1.0</Version>
+    <Company>Finova</Company>
+    <Product>Finova ERP</Product>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,15 @@
+{
+  "settings": {
+    "documentationRules": {
+      "companyName": "Finova",
+      "documentExposedElements": false,
+      "documentInternalElements": false
+    },
+    "layoutRules": {
+      "newlineAtEndOfFile": "require"
+    },
+    "orderingRules": {
+      "usingDirectivesPlacement": "outsideNamespace"
+    }
+  }
+}

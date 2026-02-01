@@ -1,0 +1,2 @@
+Msg 911, Level 16, State 1, Server DESKTOP-ITSH4HG\SQLEXPRESS, Line 3
+Database 'FinovaERP' does not exist. Make sure that the name is entered correctly.

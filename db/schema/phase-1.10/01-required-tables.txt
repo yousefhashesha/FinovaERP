@@ -1,0 +1,9 @@
+Schema|Table
+------|-----
+core|Company
+sec|Permission
+sec|Role
+sec|RolePermission
+sec|User
+sec|UserCompany
+sec|UserRole

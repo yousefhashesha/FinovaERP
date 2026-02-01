@@ -1,0 +1,3 @@
+RoleId|RoleName|IsSystem
+------|--------|--------
+23AE1886-25F4-F011-8511-C858C0A06A94|Admin|1

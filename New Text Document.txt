@@ -1,0 +1,2 @@
+dotnet build Finova.sln -c Debug
+./run-dev.sh

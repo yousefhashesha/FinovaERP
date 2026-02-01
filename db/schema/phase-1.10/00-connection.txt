@@ -1,0 +1,5 @@
+CurrentDb|ServerName
+---------|----------
+Finova_ERP|DESKTOP-ITSH4HG\SQLEXPRESS
+
+(1 rows affected)

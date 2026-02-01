@@ -1,0 +1,17 @@
+﻿using System;
+using System.Windows.Forms;
+
+namespace Finova.Presentation.WinForms
+{
+    internal static class Program
+    {
+        [STAThread]
+        static void Main()
+        {
+            ApplicationConfiguration.Initialize();
+
+            // مؤقتًا: شغّل فورم افتراضي من القالب
+            Application.Run(new Form1());
+        }
+    }
+}

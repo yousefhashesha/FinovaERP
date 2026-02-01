@@ -1,0 +1,12 @@
+Key|Value
+---|-----
+AdminUserId|4AAE1886-25F4-F011-8511-C858C0A06A94
+Key|Value
+---|-----
+AdminCompanies|1
+Key|Value
+---|-----
+AdminRoles|1
+Key|Value
+---|-----
+AdminPermissions|55

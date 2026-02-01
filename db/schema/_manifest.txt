@@ -1,0 +1,10 @@
+total 10
+drwxr-xr-x 1 kero tech 197121   0 Jan 31 23:36 ./
+drwxr-xr-x 1 kero tech 197121   0 Jan 31 23:35 ../
+-rw-r--r-- 1 kero tech 197121 100 Jan 31 23:35 00-connection.txt
+-rw-r--r-- 1 kero tech 197121 155 Jan 31 23:35 10-tables.txt
+-rw-r--r-- 1 kero tech 197121 155 Jan 31 23:36 11-columns.txt
+-rw-r--r-- 1 kero tech 197121 155 Jan 31 23:36 12-primary-keys.txt
+-rw-r--r-- 1 kero tech 197121 155 Jan 31 23:36 13-foreign-keys.txt
+-rw-r--r-- 1 kero tech 197121 155 Jan 31 23:36 14-indexes.txt
+-rw-r--r-- 1 kero tech 197121   0 Jan 31 23:36 _manifest.txt

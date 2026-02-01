@@ -1,0 +1,11 @@
+Schema|Table|ScoreAccount|ScoreDrCr|ScoreJournal|ScorePeriod|ScorePosting|TotalScore
+------|-----|------------|---------|------------|-----------|------------|----------
+acc|JournalHeader|0|2|2|2|3|9
+acc|Account|5|0|0|0|1|6
+inv|InventoryPostingSetup|5|0|0|0|1|6
+acc|JournalLine|1|2|2|0|0|5
+acc|OpeningBalance|1|2|0|1|0|4
+core|FiscalPeriod|0|0|0|4|0|4
+hr|PayrollPostingSetup|3|0|0|0|1|4
+acc|Journal|0|0|3|0|0|3
+bank|BankAccount|3|0|0|0|0|3

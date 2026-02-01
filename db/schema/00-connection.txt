@@ -1,0 +1,5 @@
+ServerName|CurrentDb
+----------|---------
+DESKTOP-ITSH4HG\SQLEXPRESS|master
+
+(1 rows affected)

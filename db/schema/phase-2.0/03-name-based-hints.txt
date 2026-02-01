@@ -1,0 +1,12 @@
+Schema|Table
+------|-----
+acc|Account
+acc|Journal
+acc|JournalHeader
+acc|JournalLine
+acc|JournalLink
+bank|BankAccount
+core|Currency
+core|ExchangeRate
+core|FiscalPeriod
+core|FiscalYear
